@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MeelCosmeticosUY</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="./css/main.css">
+    <script src="https://sdk.mercadopago.com/js/v2"></script>
+    <script src="/backend/index.js"></script>
+
+   
+</head>
+<body>
+
+    <div class="wrapper">
+        <header class="header-mobile">
+           
+           
+            <button class="open-menu" id="open-menu">
+                <i class="bi bi-list"></i>
+            </button>
+        </header>
+        <aside>
+            <button class="close-menu" id="close-menu">
+                <i class="bi bi-x"></i>
+            </button>
+           <header>
+            
+         
+         
+           <img class="logo" src="./img//logo/logo.jpg">
+           <br>
+            <a class="lucas" href="https://www.instagram.com/programadorcelayes/">   Sitio web creado por @ProgramadorCelayes</a>
+           </header>
+            
+            <nav>
+                <ul class="menu">
+                    <li>
+                        <button id="todos" class="boton-menu boton-categoria active"><i class="bi bi-hand-index-thumb-fill"></i> Todos Los Productos</button>
+                    </li>
+                    <li>
+                        <button id="perfumed" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Perfume Dama</button>
+                    </li>
+                    <li>
+                        <button id="perfumeh" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Perfume Caballero</button>
+                    </li>
+                    <li>
+                        <button id="labiales" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Labiales y Gloss</button>
+                    </li>
+                 
+                    <li>
+                        <button id="Pestañas, Cejas Y Ojos" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Pestañas, Cejas y Ojos</button>
+                    </li>
+                    <li>
+                        <button id="Mascarillas, Sets Y Mas" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Mascarillas, Sets Y Mas</button>
+                    </li>
+                    <li>
+                        <button id="Paletas, Rubores, Contorno e Iluminadores" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Paletas, Rubores, Contorno e Iluminadores</button>
+                    </li>
+                    <li>
+                        <button id="box" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Box Y Neceser</button>
+                    </li>
+                    <li>
+                        <button id="Box, Piel Y Bases" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Piel Y Bases</button>
+                    </li>
+                   
+                    <li>
+                        <a class="boton-menu boton-categoria" href="./nosotros.html">
+                            <i class="bi bi-hand-index-thumb"></i>Nosotros 
+                        </a>
+                    </li>
+                    <li>
+                        <a class="boton-menu boton-categoria" href="./metodosdepago.html">
+                            <i class="bi bi-hand-index-thumb"></i>Metodos de pago 
+                        </a>
+                    </li>
+                    <li>
+                        <a class="boton-menu boton-categoria" href="./novedades.html">
+                            <i class="bi bi-hand-index-thumb"></i>Novedades 
+                        </a>
+                    </li>
+                    
+                    
+                    <li>
+                        <a class="boton-menu boton-categoria" href="./carrito.html">
+                            <i class="bi bi-cart-fill"></i> Carrito <span id="numerito" class="numerito">0</span>
+                        </a>
+                    </li>
+                    
+                </ul>
+                
+            </nav>
+
+        </aside>
+        
+        <main>
+            <h2 class="titulo-principal" id="titulo-principal">Todos los productos</h2>
+            <div id="contenedor-productos" class="contenedor-productos">
+                <!-- Esto se va a rellenar con JS -->
+            </div>
+        </main>
+       
+    </div>
+    
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="./js/main.js"></script>
+    <script src="./js/menu.js"></script>
+    <script src="./js/carrito.js"></script>
+    
+
+</body>
+</html>

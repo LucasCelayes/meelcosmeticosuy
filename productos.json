@@ -1,0 +1,1517 @@
+[
+    {
+        "id": "perfumed-01",
+        "titulo": "Perfume Dama 919 VIP (1)",
+        "imagen": "./img/perfumed/01.jpg",
+        "categoria": {
+            "nombre": "Perfume Dama",
+            "id": "perfumed"
+        },
+        "precio": 350
+    },
+    {
+        "id": "perfumed-02",
+        "titulo": "Perfume Dama 919 Sexy (2)",
+        "imagen": "./img/perfumed/02.jpg",
+        "categoria": {
+            "nombre": "Perfume Dama",
+            "id": "perfumed"
+        },
+        "precio": 350
+    },
+    {
+        "id": "perfumed-03",
+        "titulo": "Perfume Dama May Way (3)",
+        "imagen": "./img/perfumed/03.jpg",
+        "categoria": {
+            "nombre": "Perfume Dama",
+            "id": "perfumed"
+        },
+        "precio": 350
+    },
+    {
+        "id": "perfumed-04",
+        "titulo": "Perfume Dama La Vida Es Bella (4)",
+        "imagen": "./img/perfumed/04.jpg",
+        "categoria": {
+            "nombre": "Perfume Dama",
+            "id": "perfumed"
+        },
+        "precio": 350
+    },
+    {
+        "id": "perfumed-05",
+        "titulo": "Perfume Dama 919 Heros (5)",
+        "imagen": "./img/perfumed/05.jpg",
+        "categoria": {
+            "nombre": "Perfume Dama",
+            "id": "perfumed"
+        },
+        "precio": 350
+    },
+    {
+        "id": "perfumed-06",
+        "titulo": "Perfume Dama Madame Paris (6)",
+        "imagen": "./img/perfumed/06.jpg",
+        "categoria": {
+            "nombre": "Perfume Dama",
+            "id": "perfumed"
+        },
+        "precio": 350
+    },
+    {
+        "id": "perfumed-07",
+        "titulo": "Perfume Dama Sweet Candy (7)",
+        "imagen": "./img/perfumed/07.jpg",
+        "categoria": {
+            "nombre": "Perfume Dama",
+            "id": "perfumed"
+        },
+        "precio": 350
+    },
+    {
+        "id": "perfumed-08",
+        "titulo": "Perfume Dama Only You No 882 (8)",
+        "imagen": "./img/perfumed/08.jpg",
+        "categoria": {
+            "nombre": "Perfume Dama",
+            "id": "perfumed"
+        },
+        "precio": 350
+    },
+    {
+        "id": "perfumed-09",
+        "titulo": "Perfume Dama Only You No 879 (9)",
+        "imagen": "./img/perfumed/09.jpg",
+        "categoria": {
+            "nombre": "Perfume Dama",
+            "id": "perfumed"
+        },
+        "precio": 350
+    },
+    {
+        "id": "perfumed-10",
+        "titulo": "Perfume Dama Good Girl (10)",
+        "imagen": "./img/perfumed/10.jpg",
+        "categoria": {
+            "nombre": "Perfume Dama",
+            "id": "perfumed"
+        },
+        "precio": 450
+    },
+    {
+        "id": "perfumed-11",
+        "titulo": "Perfume Dama Only You Collection (11)",
+        "imagen": "./img/perfumed/11.jpg",
+        "categoria": {
+            "nombre": "Perfume Dama",
+            "id": "perfumed"
+        },
+        "precio": 350
+    },
+    {
+        "id": "perfumed-12",
+        "titulo": "Perfume Imitación 212 (12)",
+        "imagen": "./img/perfumed/12.jpg",
+        "categoria": {
+            "nombre": "Perfume Dama",
+            "id": "perfumed"
+        },
+        "precio": 450
+    },
+    {
+        "id": "perfumed-13",
+        "titulo": "Perfume Scandal (13)",
+        "imagen": "./img/perfumed/13.jpg",
+        "categoria": {
+            "nombre": "Perfume Dama",
+            "id": "perfumed"
+        },
+        "precio": 450
+    },
+    {
+        "id": "perfumed-14",
+        "titulo": "Imitación Black Opium (14) ",
+        "imagen": "./img/perfumed/14.jpg",
+        "categoria": {
+            "nombre": "Perfume Dama",
+            "id": "perfumed"
+        },
+        "precio": 450
+    },
+    {
+        "id": "perfumed-15",
+        "titulo": "Perfume Imitación Yara (15)",
+        "imagen": "./img/perfumed/15.jpg",
+        "categoria": {
+            "nombre": "Perfume Dama",
+            "id": "perfumed"
+        },
+        "precio": 450
+    },
+    {
+        "id": "perfumed-16",
+        "titulo": "Imitación Moschino (16)",
+        "imagen": "./img/perfumed/16.jpg",
+        "categoria": {
+            "nombre": "Perfume Dama",
+            "id": "perfumed"
+        },
+        "precio": 450
+    },
+     {
+        "id": "perfumed-18",
+        "titulo": "Perfume de cartera (17)",
+        "imagen": "./img/perfumed/18.jpg",
+        "categoria": {
+            "nombre": "Perfume Dama",
+            "id": "perfumed"
+        },
+        "precio": 160
+    },
+
+
+    {
+        "id": "perfumeh-01",
+        "titulo": "Perfume Caballero Salvang (1)",
+        "imagen": "./img/perfumeh/01.jpg",
+        "categoria": {
+            "nombre": "Perfume Caballero",
+            "id": "perfumeh"
+        },
+        "precio": 350
+    },
+    {
+        "id": "perfumeh-02",
+        "titulo": "Perfume Caballero Only You NO 804 (2)",
+        "imagen": "./img/perfumeh/02.jpg",
+        "categoria": {
+            "nombre": "Perfume Hombre",
+            "id": "perfumeh"
+        },
+        "precio": 350
+    },
+    {
+        "id": "perfumeh-03",
+        "titulo": "Perfume Caballero Only You NO 884 (3)",
+        "imagen": "./img/perfumeh/03.jpg",
+        "categoria": {
+            "nombre": "Perfume Hombre",
+            "id": "perfumeh"
+        },
+        "precio": 350
+    },
+    {
+        "id": "perfumeh-04",
+        "titulo": "Perfume Caballero Only You Creation (4)",
+        "imagen": "./img/perfumeh/04.jpg",
+        "categoria": {
+            "nombre": "Perfume Hombre",
+            "id": "perfumeh"
+        },
+        "precio": 350
+    },
+    {
+        "id": "perfumeh-05",
+        "titulo": "Perfume Caballero Valiant (5)",
+        "imagen": "./img/perfumeh/05.jpg",
+        "categoria": {
+            "nombre": "Perfume Hombre",
+            "id": "perfumeh"
+        },
+        "precio": 350
+    },
+    {
+        "id": "perfumeh-06",
+        "titulo": "Perfume Caballero Only You NO 889 (6)",
+        "imagen": "./img/perfumeh/06.jpg",
+        "categoria": {
+            "nombre": "Perfume Hombre",
+            "id": "perfumeh"
+        },
+        "precio": 350
+    },
+    {
+        "id": "perfumeh-07",
+        "titulo": "Perfume Caballero Only You NO 873 (7)",
+        "imagen": "./img/perfumeh/07.jpg",
+        "categoria": {
+            "nombre": "Perfume Hombre",
+            "id": "perfumeh"
+        },
+        "precio": 350
+    },
+    {
+        "id": "perfumeh-08",
+        "titulo": "Perfume Dama Only You NO 913 (8)",
+        "imagen": "./img/perfumeh/08.jpg",
+        "categoria": {
+            "nombre": "Perfume Hombre",
+            "id": "perfumeh"
+        },
+        "precio": 350
+    },
+    {
+        "id": "perfumeh-09",
+        "titulo": "Perfume Caballero 212 (9)",
+        "imagen": "./img/perfumeh/09.jpg",
+        "categoria": {
+            "nombre": "Perfume Hombre",
+            "id": "perfumeh"
+        },
+        "precio": 350
+    },
+   
+    {
+        "id": "perfumeh-10",
+        "titulo": "Perfume Caballero Golf (10)",
+        "imagen": "./img/perfumeh/10.jpg",
+        "categoria": {
+            "nombre": "Perfume Hombre",
+            "id": "perfumeh"
+        },
+        "precio": 350
+    },
+    {
+        "id": "perfumeh-11",
+        "titulo": "Imitación Invictus  (11)",
+        "imagen": "./img/perfumeh/11.jpg",
+        "categoria": {
+            "nombre": "Perfume Hombre",
+            "id": "perfumeh"
+        },
+        "precio": 690
+    },
+ 
+    {
+        "id": "labiales-01",
+        "titulo": "Labial 5D Matte (1)",
+        "imagen": "./img/labiales/01.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 180
+    },
+    {
+        "id": "labiales-02",
+        "titulo": "Labial Sky High (2)",
+        "imagen": "./img/labiales/02.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 190
+    },
+    {
+        "id": "labiales-15 ",
+        "titulo": "Labial Matte Varios Colores Larga Duración (3)",
+        "imagen": "./img/labiales/15.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 190
+    },
+    {
+        "id": "labiales-04",
+        "titulo": "Labial Lofshe (4)",
+        "imagen": "./img/labiales/16.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 170
+    },
+    {
+        "id": "labiales-03",
+        "titulo": "Labial Matte Larga Duración (5)",
+        "imagen": "./img/labiales/03.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 180
+    },
+    {
+        "id": "labiales-06",
+        "titulo": "Labial 3Q Larga Duración (6)",
+        "imagen": "./img/labiales/06.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 190
+    },
+    {
+        "id": "labiales-07",
+        "titulo": "Mega Gloss (7)",
+        "imagen": "./img/gloss/01.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 200
+    },
+    {
+        "id": "labiales-08",
+        "titulo": "Labial Gloss Con Color (8)",
+        "imagen": "./img/gloss/02.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 200
+    },
+    {
+        "id": "labiales-09",
+        "titulo": "Labial 3Q Beauty (9)",
+        "imagen": "./img/gloss/03.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 200
+    },
+    {
+        "id": "labiales-10",
+        "titulo": "Balsamo Magic (10)",
+        "imagen": "./img/gloss/04.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 150
+    },
+    {
+        "id": "labiales-11",
+        "titulo": "Voluminizador Plump (11)",
+        "imagen": "./img/gloss/05.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 200
+    },
+    
+    {
+        "id": "labiales-12",
+        "titulo": "Voluminizador Plump 3Q Beauty (12)",
+        "imagen": "./img/gloss/07.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 180
+    },
+    {
+        "id": "labiales-13",
+        "titulo": "Voluminizador Plumpling (13)",
+        "imagen": "./img/gloss/08.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 200
+    },
+
+    {
+        "id": "labiales-14",
+        "titulo": "Gloss Mega Brilloso (14)",
+        "imagen": "./img/gloss/12.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 180
+    },
+    
+    {
+        "id": "labiales-15",
+        "titulo": "Lip Oil 24K (15)",
+        "imagen": "./img/gloss/06.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 160
+    },
+   
+    {
+        "id": "labiales-16",
+        "titulo": "Gloss Ultra HD (16)",
+        "imagen": "./img/gloss/20.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 180
+    },
+    {
+        "id": "labiales-17",
+        "titulo": "Gloss Ultra Brilloso Con Color (17)",
+        "imagen": "./img/gloss/13.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 200
+    },
+    {
+        "id": "labiales-18",
+        "titulo": "Gloss De Aloe Vera (18)",
+        "imagen": "./img/gloss/14.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 150
+    },
+    {
+        "id": "labiales-19",
+        "titulo": "Glip Gloss Ultra Brillante (19)",
+        "imagen": "./img/gloss/15.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 250
+    },
+    
+    
+    {
+        "id": "labiales-20",
+        "titulo": "Gloss Mega Brilloso Con Color (20)",
+        "imagen": "./img/labiales/17.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 100
+    },
+    {
+        "id": "labiales-21",
+        "titulo": "Labial 2 en 1 Tono B4(21)",
+        "imagen": "./img/labiales/18.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 260
+    },
+    {
+        "id": "labiales-22",
+        "titulo": "Labial 2 en 1 Tono B1(22)",
+        "imagen": "./img/labiales/19.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 260
+    },
+    {
+        "id": "labiales-23",
+        "titulo": "Labial 2 en 1 Tono A1 (23)",
+        "imagen": "./img/labiales/20.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 260
+    },
+    {
+        "id": "labiales-24",
+        "titulo": "Labial 2 en 1 Tono A3 (24)",
+        "imagen": "./img/labiales/21.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 260
+    },
+  
+    {
+        "id": "labiales-25",
+        "titulo": "Gloss Con Aroma (25)",
+        "imagen": "./img/labiales/23.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 70
+    },
+    {
+        "id": "labiales-26",
+        "titulo": "Delineador De Labios (26)",
+        "imagen": "./img/labiales/24.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 80
+    },
+    {
+        "id": "labiales-27",
+        "titulo": "Labial matte nude (27)",
+        "imagen": "./img/labiales/25.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 100
+    },
+    {
+        "id": "labiales-28",
+        "titulo": "Balsamo frutal (28)",
+        "imagen": "./img/labiales/26.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 100
+    },
+    {
+        "id": "labiales-29",
+        "titulo": "Balsamo de frutilla (29)",
+        "imagen": "./img/labiales/27.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 99
+    },
+     {
+        "id": "labiales-30",
+        "titulo": "Vaselina para labios (30)",
+        "imagen": "./img/labiales/28.jpg",
+        "categoria": {
+            "nombre": "Labiales y Gloss",
+            "id": "labiales"
+        },
+        "precio": 99
+    },
+
+   
+   
+    {
+        "id": "pestañas y cejas-01",
+        "titulo": "Cera Para Peinar Cejas (1)",
+        "imagen": "./img/pestañas y cejas/09.jpg",
+        "categoria": {
+            "nombre": "Pestañas, Cejas Y Ojos",
+            "id": "Pestañas, Cejas Y Ojos"
+        },
+        "precio": 260
+    },
+    {
+        "id": "pestañas y cejas-02",
+        "titulo": "Mascara de Cejas Fashion (2)",
+        "imagen": "./img/pestañas y cejas/02.jpg",
+        "categoria": {
+            "nombre": "Pestañas, Cejas Y Ojos",
+            "id": "Pestañas, Cejas Y Ojos"
+        },
+        "precio": 200
+    },
+    {
+        "id": "pestañas y cejas-10",
+        "titulo": "Máscara de pestañas de colores (3)",
+        "imagen": "./img/pestañas y cejas/10.jpg",
+        "categoria": {
+            "nombre": "Pestañas, Cejas Y Ojos",
+            "id": "Pestañas, Cejas Y Ojos"
+        },
+        "precio": 200
+    },
+
+    
+    {
+        "id": "pestañas y cejas-04",
+        "titulo": "Mascara Xoxo (4)",
+        "imagen": "./img/pestañas y cejas/04.jpg",
+        "categoria": {
+            "nombre": "Pestañas, Cejas Y Ojos",
+            "id": "Pestañas, Cejas Y Ojos"
+        },
+        "precio": 150
+    },
+    {
+        "id": "pestañas y cejas-05",
+        "titulo": "Mascara Mega Volumen (5)",
+        "imagen": "./img/pestañas y cejas/05.jpg",
+        "categoria": {
+            "nombre": "Pestañas, Cejas Y Ojos",
+            "id": "Pestañas, Cejas Y Ojos"
+        },
+        "precio": 180
+    },
+    {
+        "id": "pestañas y cejas-06",
+        "titulo": "Mascara Fit Me (6)",
+        "imagen": "./img/pestañas y cejas/06.jpg",
+        "categoria": {
+            "nombre": "Pestañas, Cejas Y Ojos",
+            "id": "Pestañas, Cejas Y Ojos"
+        },
+        "precio": 200
+    },
+    {
+        "id": "pestañas y cejas-07",
+        "titulo": "Mascara Telescopic (7) [ AGOTADO ]",
+        "imagen": "./img/pestañas y cejas/07.jpg",
+        "categoria": {
+            "nombre": "Pestañas, Cejas Y Ojos",
+            "id": "Pestañas, Cejas Y Ojos"
+        },
+        "precio": 200
+    },
+    {
+        "id": "pestañas y cejas-08",
+        "titulo": "Delineador SkyLine (8)",
+        "imagen": "./img/pestañas y cejas/08.jpg",
+        "categoria": {
+            "nombre": "Pestañas, Cejas Y Ojos",
+            "id": "Pestañas, Cejas Y Ojos"
+        },
+        "precio": 250
+    },
+    {
+        "id": "pestañas y cejas-09",
+        "titulo": "Brillo Sky High (9)",
+        "imagen": "./img/pestañas y cejas/01.jpg",
+        "categoria": {
+            "nombre": "Pestañas, Cejas Y Ojos",
+            "id": "Pestañas, Cejas Y Ojos"
+        },
+        "precio": 150
+    },
+
+    {
+        "id": "pestañas y cejas-03",
+        "titulo": "Mascara Con Acido Hyaluronico (10)",
+        "imagen": "./img/pestañas y cejas/03.jpg",
+        "categoria": {
+            "nombre": "Pestañas, Cejas Y Ojos",
+            "id": "Pestañas, Cejas Y Ojos"
+        },
+        "precio": 180
+    },
+    {
+        "id": "pestañas y cejas-13",
+        "titulo": "Mascara Con Acido Hyaluronico (11)",
+        "imagen": "./img/pestañas y cejas/13.jpg",
+        "categoria": {
+            "nombre": "Pestañas, Cejas Y Ojos",
+            "id": "Pestañas, Cejas Y Ojos"
+        },
+        "precio": 250
+    },
+    {
+        "id": "pestañas y cejas-14",
+        "titulo": "Delineador Alta Duracion (12)",
+        "imagen": "./img/pestañas y cejas/14.jpg",
+        "categoria": {
+            "nombre": "Pestañas, Cejas Y Ojos",
+            "id": "Pestañas, Cejas Y Ojos"
+        },
+        "precio": 260
+    },
+    {
+        "id": "pestañas y cejas-15",
+        "titulo": "Máscara de pestañas 2 En 1 (13)",
+        "imagen": "./img/pestañas y cejas/15.jpg",
+        "categoria": {
+            "nombre": "Pestañas, Cejas Y Ojos",
+            "id": "Pestañas, Cejas Y Ojos"
+        },
+        "precio": 260
+    },
+    {
+        "id": "pestañas y cejas-16",
+        "titulo": "Máscara de pestañas y cejas acid (14)",
+        "imagen": "./img/pestañas y cejas/16.jpg",
+        "categoria": {
+            "nombre": "Pestañas, Cejas Y Ojos",
+            "id": "Pestañas, Cejas Y Ojos"
+        },
+        "precio": 150
+    },
+    {
+        "id": "pestañas y cejas-17",
+        "titulo": "Delineador Plumón (No Se Transfiere) (15)",
+        "imagen": "./img/pestañas y cejas/17.jpg",
+        "categoria": {
+            "nombre": "Pestañas, Cejas Y Ojos",
+            "id": "Pestañas, Cejas Y Ojos"
+        },
+        "precio": 250
+    },
+    {
+        "id": "pestañas y cejas-18",
+        "titulo": "Corrector de ojeras (16)",
+        "imagen": "./img/pestañas y cejas/18.jpg",
+        "categoria": {
+            "nombre": "Pestañas, Cejas Y Ojos",
+            "id": "Pestañas, Cejas Y Ojos"
+        },
+        "precio": 150
+    },
+    {
+        "id": "pestañas y cejas-19",
+        "titulo": "Contorno Corrector (17)",
+        "imagen": "./img/pestañas y cejas/19.jpg",
+        "categoria": {
+            "nombre": "Pestañas, Cejas Y Ojos",
+            "id": "Pestañas, Cejas Y Ojos"
+        },
+        "precio": 200
+    },
+    
+    {
+        "id": "pestañas y cejas-20",
+        "titulo": "Máscara De Pestañas Mega Volumen (18)",
+        "imagen": "./img/pestañas y cejas/20.jpg",
+        "categoria": {
+            "nombre": "Pestañas, Cejas Y Ojos",
+            "id": "Pestañas, Cejas Y Ojos"
+        },
+        "precio": 150
+    },
+    {
+        "id": "pestañas y cejas-21",
+        "titulo": "Máscara Peine Fino (19)",
+        "imagen": "./img/pestañas y cejas/21.jpg",
+        "categoria": {
+            "nombre": "Pestañas, Cejas Y Ojos",
+            "id": "Pestañas, Cejas Y Ojos"
+        },
+        "precio": 200
+    },
+    {
+        "id": "pestañas y cejas-22",
+        "titulo": "Delineador Retractil (20)",
+        "imagen": "./img/pestañas y cejas/22.jpg",
+        "categoria": {
+            "nombre": "Pestañas, Cejas Y Ojos",
+            "id": "Pestañas, Cejas Y Ojos"
+        },
+        "precio": 50
+    },
+    {
+        "id": "pestañas y cejas-23",
+        "titulo": "Delineador 2 En 1 Punta Fina Y Gruesa (21)",
+        "imagen": "./img/pestañas y cejas/23.jpg",
+        "categoria": {
+            "nombre": "Pestañas, Cejas Y Ojos",
+            "id": "Pestañas, Cejas Y Ojos"
+        },
+        "precio": 150
+    },
+    {
+        "id": "pestañas y cejas-24",
+        "titulo": "Delineador Retractil (22)",
+        "imagen": "./img/pestañas y cejas/24.jpg",
+        "categoria": {
+            "nombre": "Pestañas, Cejas Y Ojos",
+            "id": "Pestañas, Cejas Y Ojos"
+        },
+        "precio": 260
+    },
+    {
+        "id": "pestañas y cejas-25",
+        "titulo": "Mascara Waterproof (23)",
+        "imagen": "./img/pestañas y cejas/25.jpg",
+        "categoria": {
+            "nombre": "Pestañas, Cejas Y Ojos",
+            "id": "Pestañas, Cejas Y Ojos"
+        },
+        "precio": 150
+    },
+    
+
+   
+   
+    {
+        "id": "Mascarillas, Sets Y Mas-01",
+        "titulo": "Mascarillas Faciales (1)",
+        "imagen": "./img/iluminadores y mascarillas/02.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Mascarillas, Sets Y Mas-02",
+        "titulo": "Set de esponjitas (2)",
+        "imagen": "./img/iluminadores y mascarillas/03.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Mascarillas, Sets Y Mas-03",
+        "titulo": "Fijador De Maquillaje (3)",
+        "imagen": "./img/iluminadores y mascarillas/04.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 290
+    },
+    {
+        "id": "Mascarillas, Sets Y Mas-04",
+        "titulo": "Set De Brochas Con Caja Plástica Y Espejo (4)",
+        "imagen": "./img/iluminadores y mascarillas/05.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 450
+    },
+    
+    {
+        "id": "Mascarillas, Sets Y Mas-05",
+        "titulo": "Beauty Blender (5)",
+        "imagen": "./img/iluminadores y mascarillas/07.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Mascarillas, Sets Y Mas-06",
+        "titulo": "Mascarilla Facial HudaBeauty (6)",
+        "imagen": "./img/iluminadores y mascarillas/08.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Mascarillas, Sets Y Mas-07",
+        "titulo": "Cepillo Anti Frizz (7)",
+        "imagen": "./img/iluminadores y mascarillas/10.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 100
+    },
+
+    {
+        "id": "Mascarillas, Sets Y Mas-08",
+        "titulo": "Vincha Skin (8)",
+        "imagen": "./img/iluminadores y mascarillas/11.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 150
+    },
+    
+    {
+        "id": "Mascarillas, Sets Y Mas-09",
+        "titulo": "Peine Para Frizz De Pelo (9)",
+        "imagen": "./img/iluminadores y mascarillas/12.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Mascarillas, Sets Y Mas-10",
+        "titulo": "Papel Para Absorber La Oleosidad, 100 Toallitas (10)",
+        "imagen": "./img/iluminadores y mascarillas/13.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 120
+    },
+    {
+        "id": "Mascarillas, Sets Y Mas-11",
+        "titulo": "Pad para desmaquillarse (11)",
+        "imagen": "./img/iluminadores y mascarillas/14.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 120
+    },
+    {
+        "id": "Mascarillas, Sets Y Mas-12",
+        "titulo": "Colita de pelo (12)",
+        "imagen": "./img/iluminadores y mascarillas/15.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 50
+    },
+    {
+        "id": "Mascarillas, Sets Y Mas-13",
+        "titulo": "Colita de pelo pack de 6 (13)",
+        "imagen": "./img/iluminadores y mascarillas/16.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 50
+    },
+    {
+        "id": "Mascarillas, Sets Y Mas-14",
+        "titulo": "Colita de pelo anchas (14)",
+        "imagen": "./img/iluminadores y mascarillas/17.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 50
+    },
+    {
+        "id": "Mascarillas, Sets Y Mas-15",
+        "titulo": "Pinza de pelo pequeña (15)",
+        "imagen": "./img/iluminadores y mascarillas/18.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 50
+    },
+     {
+        "id": "Mascarillas, Sets Y Mas-16",
+        "titulo": "Pinza hawaiana pequeña (16)",
+        "imagen": "./img/iluminadores y mascarillas/19.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 70
+    },
+    {
+        "id": "Mascarillas, Sets Y Mas-17",
+        "titulo": "Pinza hawaiana grande (17)",
+        "imagen": "./img/iluminadores y mascarillas/20.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 100
+    },
+     {
+        "id": "Mascarillas, Sets Y Mas-18",
+        "titulo": "Banditas elasticas (18)",
+        "imagen": "./img/iluminadores y mascarillas/21.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 50
+    },
+     {
+        "id": "Mascarillas, Sets Y Mas-19",
+        "titulo": "Toallitas desmaquillantes (19)",
+        "imagen": "./img/iluminadores y mascarillas/22.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 120
+    },
+     {
+        "id": "Mascarillas, Sets Y Mas-20",
+        "titulo": "Vincha de tela (20)",
+        "imagen": "./img/iluminadores y mascarillas/23.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 70
+    },
+    {
+        "id": "Mascarillas, Sets Y Mas-21",
+        "titulo": "Sapitos (21)",
+        "imagen": "./img/iluminadores y mascarillas/24.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 50
+    },
+     {
+        "id": "Mascarillas, Sets Y Mas-22",
+        "titulo": "Esponjita exfoliante (22)",
+        "imagen": "./img/iluminadores y mascarillas/25.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 100
+    },
+  
+      {
+        "id": "Mascarillas, Sets Y Mas-24",
+        "titulo": "Set de 5 brochas (24)",
+        "imagen": "./img/iluminadores y mascarillas/27.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 120
+    },
+    {
+        "id": "Mascarillas, Sets Y Mas-25",
+        "titulo": "Set de 8 brochas (25)",
+        "imagen": "./img/iluminadores y mascarillas/28.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "Mascarillas, Sets Y Mas-26",
+        "titulo": "Gorra de seda para el frizz (26)",
+        "imagen": "./img/iluminadores y mascarillas/29.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 120
+    },
+    {
+        "id": "Mascarillas, Sets Y Mas-27",
+        "titulo": "Set de navajas (27)",
+        "imagen": "./img/iluminadores y mascarillas/30.jpg",
+        "categoria": {
+            "nombre": "Mascarillas, Sets Y Mas",
+            "id": "Mascarillas, Sets Y Mas"
+        },
+        "precio": 100
+    },
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+{
+    "id": "Box, Piel Y Bases-03",
+    "titulo": "Exfoliante (1)",
+    "imagen": "./img/box y mas/03.jpg",
+    "categoria": {
+        "nombre": "Piel Y Bases",
+        "id": "Box, Piel Y Bases"
+    },
+    "precio": 150
+},
+{
+    "id": "Box, Piel Y Bases-04",
+    "titulo": "Polvo Compacto (2)",
+    "imagen": "./img/box y mas/04.jpg",
+    "categoria": {
+        "nombre": "Piel Y Bases",
+        "id": "Box, Piel Y Bases"
+    },
+    "precio": 190
+},
+{
+    "id": "Box, Piel Y Bases-05",
+    "titulo": "Base Matte Fit Me Larga Duración (3)",
+    "imagen": "./img/box y mas/05.jpg",
+    "categoria": {
+        "nombre": "Piel Y Bases",
+        "id": "Box, Piel Y Bases"
+    },
+    "precio": 150
+},
+
+{
+    "id": "Box, Piel Y Bases-07",
+    "titulo": "Base Matte (4)",
+    "imagen": "./img/box y mas/07.jpg",
+    "categoria": {
+        "nombre": "Piel Y Bases",
+        "id": "Box, Piel Y Bases"
+    },
+    "precio": 150
+},
+
+{
+    "id": "Box-01",
+    "titulo": "Ramo (1)",
+    "imagen": "./img/box y mas/01.jpg",
+    "categoria": {
+        "nombre": "Box Y Neceser",
+        "id": "box"
+    },
+    "precio": 2430
+},
+{
+    "id": "Box-02",
+    "titulo": "Neceser (2)",
+    "imagen": "./img/box y mas/02.jpg",
+    "categoria": {
+        "nombre": "Box Y Neceser",
+        "id": "box"
+    },
+    "precio": 590
+},
+{
+    "id": "Box-03",
+    "titulo": "Neceser (3)",
+    "imagen": "./img/box y mas/06.jpg",
+    "categoria": {
+        "nombre": "Box Y Neceser",
+        "id": "box"
+    },
+    "precio": 690
+},
+{
+    "id": "Box-04",
+    "titulo": "Box (4)",
+    "imagen": "./img/box y mas/08.jpg",
+    "categoria": {
+        "nombre": "Box Y Neceser",
+        "id": "box"
+    },
+    "precio": 1990
+},
+{
+    "id": "Box-05",
+    "titulo": "Box (5)",
+    "imagen": "./img/box y mas/09.jpg",
+    "categoria": {
+        "nombre": "Box Y Neceser",
+        "id": "box"
+    },
+    "precio": 2100
+},
+{
+    "id": "Box-06",
+    "titulo": "Box (6)",
+    "imagen": "./img/box y mas/10.jpg",
+    "categoria": {
+        "nombre": "Box Y Neceser",
+        "id": "box"
+    },
+    "precio": 1700
+},
+{
+    "id": "Box-07",
+    "titulo": "Box (7)",
+    "imagen": "./img/box y mas/11.jpg",
+    "categoria": {
+        "nombre": "Box Y Neceser",
+        "id": "box"
+    },
+    "precio": 1300
+},
+{
+    "id": "Box-08",
+    "titulo": "Box (8)",
+    "imagen": "./img/box y mas/12.jpg",
+    "categoria": {
+        "nombre": "Box Y Neceser",
+        "id": "box"
+    },
+    "precio": 1500
+},
+{
+    "id": "Box-09",
+    "titulo": "Box (9)",
+    "imagen": "./img/box y mas/13.jpg",
+    "categoria": {
+        "nombre": "Box Y Neceser",
+        "id": "box"
+    },
+    "precio": 1500
+},
+{
+    "id": "Box-10",
+    "titulo": "Box (10)",
+    "imagen": "./img/box y mas/14.jpg",
+    "categoria": {
+        "nombre": "Box Y Neceser",
+        "id": "box"
+    },
+    "precio": 1700
+},
+{
+    "id": "Box-11",
+    "titulo": "Box (11)",
+    "imagen": "./img/box y mas/15.jpg",
+    "categoria": {
+        "nombre": "Box Y Neceser",
+        "id": "box"
+    },
+    "precio": 1990
+},
+
+
+
+
+
+{
+    "id": "Box-12",
+    "titulo": "Box (12)",
+    "imagen": "./img/box y mas/16.jpg",
+    "categoria": {
+        "nombre": "Box Y Neceser",
+        "id": "box"
+    },
+    "precio": 1300
+},
+
+
+
+
+{
+    "id": "Paletas, Rubores, Contorno e Iluminadores-01",
+    "titulo": "Iluminador What`s Up! (1)",
+    "imagen": "./img/iluminadores y mascarillas/01.jpg",
+    "categoria": {
+        "nombre": "Paletas, Rubores, Contorno e Iluminadores",
+        "id": "Paletas, Rubores, Contorno e Iluminadores"
+    },
+    "precio": 350
+},
+{
+    "id": "Paletas, Rubores, Contorno e Iluminadores-02",
+    "titulo": "Paleta De Sombras 3 Tonos (2)",
+    "imagen": "./img/paletas/01.jpg",
+    "categoria": {
+        "nombre": "Paletas, Rubores, Contorno e Iluminadores",
+        "id": "Paletas, Rubores, Contorno e Iluminadores"
+    },
+    "precio": 190
+},
+{
+    "id": "Paletas, Rubores, Contorno e Iluminadores-03",
+    "titulo": "Paleta De Sombras 3 Tonos (3)",
+    "imagen": "./img/paletas/02.jpg",
+    "categoria": {
+        "nombre": "Paletas, Rubores, Contorno e Iluminadores",
+        "id": "Paletas, Rubores, Contorno e Iluminadores"
+    },
+    "precio": 190
+},
+{
+    "id": "Paletas, Rubores, Contorno e Iluminadores-04",
+    "titulo": "Paleta De Sombras 3 Tonos (4)",
+    "imagen": "./img/paletas/03.jpg",
+    "categoria": {
+        "nombre": "Paletas, Rubores, Contorno e Iluminadores",
+        "id": "Paletas, Rubores, Contorno e Iluminadores"
+    },
+    "precio": 190
+},
+{
+    "id": "Paletas, Rubores, Contorno e Iluminadores-05",
+    "titulo": "Rubor En Polvo Con Esponjita Y Espejo (5)",
+    "imagen": "./img/iluminadores y mascarillas/06.jpg",
+    "categoria": {
+        "nombre": "Paletas, Rubores, Contorno e Iluminadores",
+        "id": "Paletas, Rubores, Contorno e Iluminadores"
+    },
+    "precio": 220
+},
+{
+    "id": "Paletas, Rubores, Contorno e Iluminadores-06",
+    "titulo": "Iluminador Liquido 3Q (6)",
+    "imagen": "./img/iluminadores y mascarillas/09.jpg",
+    "categoria": {
+        "nombre": "Paletas, Rubores, Contorno e Iluminadores",
+        "id": "Paletas, Rubores, Contorno e Iluminadores"
+    },
+    "precio": 200
+},
+{
+    "id": "Paletas, Rubores, Contorno e Iluminadores-07",
+    "titulo": "Rubor Liquido (7)",
+    "imagen": "./img/paletas/04.jpg",
+    "categoria": {
+        "nombre": "Paletas, Rubores, Contorno e Iluminadores",
+        "id": "Paletas, Rubores, Contorno e Iluminadores"
+    },
+    "precio": 220
+}
+,
+{
+    "id": "Paletas, Rubores, Contorno e Iluminadores-08",
+    "titulo": "Contorno + rubor (8)",
+    "imagen": "./img/paletas/05.jpg",
+    "categoria": {
+        "nombre": "Paletas, Rubores, Contorno e Iluminadores",
+        "id": "Paletas, Rubores, Contorno e Iluminadores"
+    },
+    "precio": 250
+}
+,
+{
+    "id": "Paletas, Rubores, Contorno e Iluminadores-09",
+    "titulo": "Polvo De Hadas Iluminador (9)",
+    "imagen": "./img/paletas/06.jpg",
+    "categoria": {
+        "nombre": "Paletas, Rubores, Contorno e Iluminadores",
+        "id": "Paletas, Rubores, Contorno e Iluminadores"
+    },
+    "precio": 250
+}
+,
+{
+    "id": "Paletas, Rubores, Contorno e Iluminadores-10",
+    "titulo": "Paleta Sunset (10)",
+    "imagen": "./img/paletas/07.jpg",
+    "categoria": {
+        "nombre": "Paletas, Rubores, Contorno e Iluminadores",
+        "id": "Paletas, Rubores, Contorno e Iluminadores"
+    },
+    "precio": 220
+}
+,
+{
+    "id": "Paletas, Rubores, Contorno e Iluminadores-11",
+    "titulo": "Paleta Wow 3 Tonos (11)",
+    "imagen": "./img/paletas/08.jpg",
+    "categoria": {
+        "nombre": "Paletas, Rubores, Contorno e Iluminadores",
+        "id": "Paletas, Rubores, Contorno e Iluminadores"
+    },
+    "precio": 250
+}
+,
+{
+    "id": "Paletas, Rubores, Contorno e Iluminadores-12",
+    "titulo": "Paleta Gentu 2 tonos (12)",
+    "imagen": "./img/paletas/09.jpg",
+    "categoria": {
+        "nombre": "Paletas, Rubores, Contorno e Iluminadores",
+        "id": "Paletas, Rubores, Contorno e Iluminadores"
+    },
+    "precio": 250
+}
+,
+{
+    "id": "Paletas, Rubores, Contorno e Iluminadores-13",
+    "titulo": "Paleta Huda Beauty (13)",
+    "imagen": "./img/paletas/10.jpg",
+    "categoria": {
+        "nombre": "Paletas, Rubores, Contorno e Iluminadores",
+        "id": "Paletas, Rubores, Contorno e Iluminadores"
+    },
+    "precio": 200
+}
+,
+{
+    "id": "Paletas, Rubores, Contorno e Iluminadores-14",
+    "titulo": "Paleta Sunset (14)",
+    "imagen": "./img/paletas/11.jpg",
+    "categoria": {
+        "nombre": "Paletas, Rubores, Contorno e Iluminadores",
+        "id": "Paletas, Rubores, Contorno e Iluminadores"
+    },
+    "precio": 220
+},
+{
+    "id": "Paletas, Rubores, Contorno e Iluminadores-15",
+    "titulo": "Paleta Nude Colores Matte Y Brillosos (15)",
+    "imagen": "./img/paletas/12.jpg",
+    "categoria": {
+        "nombre": "Paletas, Rubores, Contorno e Iluminadores",
+        "id": "Paletas, Rubores, Contorno e Iluminadores"
+    },
+    "precio": 390
+},
+{
+    "id": "Paletas, Rubores, Contorno e Iluminadores-16",
+    "titulo": "Paleta Con Espejo (16)",
+    "imagen": "./img/paletas/13.jpg",
+    "categoria": {
+        "nombre": "Paletas, Rubores, Contorno e Iluminadores",
+        "id": "Paletas, Rubores, Contorno e Iluminadores"
+    },
+    "precio": 420
+}
+,
+{
+    "id": "Paletas, Rubores, Contorno e Iluminadores-17",
+    "titulo": "Paleta Con Iluminadores (17)",
+    "imagen": "./img/paletas/14.jpg",
+    "categoria": {
+        "nombre": "Paletas, Rubores, Contorno e Iluminadores",
+        "id": "Paletas, Rubores, Contorno e Iluminadores"
+    },
+    "precio": 250
+}
+,
+{
+    "id": "Paletas, Rubores, Contorno e Iluminadores-18",
+    "titulo": "Paleta Colores Matte Y Brillosos + Pincel (18)",
+    "imagen": "./img/paletas/15.jpg",
+    "categoria": {
+        "nombre": "Paletas, Rubores, Contorno e Iluminadores",
+        "id": "Paletas, Rubores, Contorno e Iluminadores"
+    },
+    "precio": 380
+}
+,
+{
+    "id": "Paletas, Rubores, Contorno e Iluminadores-19",
+    "titulo": "Paleta Naked Con Espejo Y Pincel (19)",
+    "imagen": "./img/paletas/16.jpg",
+    "categoria": {
+        "nombre": "Paletas, Rubores, Contorno e Iluminadores",
+        "id": "Paletas, Rubores, Contorno e Iluminadores"
+    },
+    "precio": 390
+},
+{
+    "id": "Paletas, Rubores, Contorno e Iluminadores-20",
+    "titulo": "Paleta colores mate y brillosos (20)",
+    "imagen": "./img/paletas/17.jpg",
+    "categoria": {
+        "nombre": "Paletas, Rubores, Contorno e Iluminadores",
+        "id": "Paletas, Rubores, Contorno e Iluminadores"
+    },
+    "precio": 200
+},
+{
+    "id": "Paletas, Rubores, Contorno e Iluminadores-21",
+    "titulo": "Mascara imitacion maybiline (21)",
+    "imagen": "./img/paletas/19.jpg",
+    "categoria": {
+        "nombre": "Paletas, Rubores, Contorno e Iluminadores",
+        "id": "Paletas, Rubores, Contorno e Iluminadores"
+    },
+    "precio": 200
+},
+
+
+{
+    "id": "Paletas, Rubores, Contorno e Iluminadores-22",
+    "titulo": "Iluminador en barra (22)",
+    "imagen": "./img/paletas/20.jpg",
+    "categoria": {
+        "nombre": "Paletas, Rubores, Contorno e Iluminadores",
+        "id": "Paletas, Rubores, Contorno e Iluminadores"
+    },
+    "precio": 120
+}
+
+
+    
+]
