@@ -1,7 +1,19 @@
 {
   "version": 2,
-  "public": true,
+  "builds": [
+    {
+      "src": "api/*.js",
+      "use": "@vercel/node"
+    }
+  ],
   "routes": [
-    { "src": "/(.*)", "dest": "/index.html" }
+    {
+      "src": "/api/crear-preferencia",
+      "dest": "api/crear-preferencia.js"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
   ]
 }
